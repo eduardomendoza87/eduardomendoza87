@@ -41,6 +41,21 @@
 
 ---
 
+## 📱 Connect with me  
+<p align="center">
+  <a href="https://www.instagram.com/eduardomendoza960" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/eduardomendoza" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/eduardomendoza" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
