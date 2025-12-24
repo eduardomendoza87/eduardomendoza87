@@ -26,7 +26,7 @@ Soy un desarrollador apasionado por el puente entre el **Diseño** y el **Códig
 * 🔭 Actualmente trabajando en: **Web Corporativa para AXIS Architecture Studio**.
 * 🎓 Formación: Estudiante de Ingeniería en Sistemas Computacionales.
 * ⚡ Metodología: Trabajo con **Scrum** y gestiono proyectos en **Jira**.
-* 🌱 Aprendiendo: Animaciones avanzadas con Framer Motion y Backend con Node.js.
+* 🌱 Aprendiendo: Animaciones avanzadas con Framer Motion y optimización de bases de datos.
 
 ---
 
@@ -42,10 +42,11 @@ Soy un desarrollador apasionado por el puente entre el **Diseño** y el **Códig
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
 
-### **⚙️ Backend & Database**
+### **🗄️ Backend & Database**
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
 ### **🚀 Tools, DevOps & Management**
