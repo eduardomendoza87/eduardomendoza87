@@ -12,7 +12,7 @@
   <a href="mailto:tu-email@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://tu-portfolio.vercel.app/">
+  <a href="https://edumendoza-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-black?style=for-the-badge&logo=vercel" alt="Portfolio">
   </a>
 </p>
@@ -23,7 +23,7 @@
 
 Soy un desarrollador apasionado por el puente entre el **Diseño** y el **Código**. Mi enfoque se centra en construir aplicaciones web escalables utilizando **React** y asegurar una experiencia de usuario impecable mediante principios de **UX/UI**.
 
-* 🔭 Actualmente trabajando en: **Web Corporativa para AXIS Architecture Studio**.
+* 🔭 Actualmente trabajando en: **Plataforma Barber Saas**.
 * 🎓 Formación: Estudiante de Ingeniería en Sistemas Computacionales.
 * ⚡ Metodología: Trabajo con **Scrum** y gestiono proyectos en **Jira**.
 * 🌱 Aprendiendo: Animaciones avanzadas con Framer Motion y optimización de bases de datos.
